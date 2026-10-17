@@ -1,0 +1,19 @@
+{
+    "name": "Inventi · Todo en su lugar",
+    "short_name": "Inventi",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#FFF9F2",
+    "theme_color": "#176B50",
+    "description": "Gestión local de productos e inventario.",
+    "orientation": "any",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/inventi.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        }
+    ]
+}
